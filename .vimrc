@@ -23,3 +23,6 @@ set autochdir
  
 set undolevels=1000	
 set backspace=indent,eol,start	
+
+set path+=**
+set wildmenu
